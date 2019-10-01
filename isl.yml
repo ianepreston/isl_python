@@ -1,6 +1,5 @@
 name: isl
 channels:
-  - anaconda
   - conda-forge
   - defaults
 dependencies:
