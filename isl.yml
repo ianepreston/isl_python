@@ -12,6 +12,7 @@ dependencies:
   - seaborn
   - scikit-learn
   - statsmodels
+  - mlxtend
   - glmnet
   - scipy
   - pydot
