@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - jupyterlab
+  - nodejs
   - pylint
   - black
   - pytest
